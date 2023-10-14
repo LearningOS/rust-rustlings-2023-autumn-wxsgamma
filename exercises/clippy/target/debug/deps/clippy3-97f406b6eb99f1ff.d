@@ -1,6 +1,6 @@
-/home/nuc/github-classroom/LearningOS/rust-rustlings-2023-autumn-wxsgamma/exercises/clippy/target/debug/deps/clippy3-97f406b6eb99f1ff.rmeta: clippy3.rs Cargo.toml
+/home/nuc/Desktop/rust-rustlings-2023-autumn-wxsgamma/exercises/clippy/target/debug/deps/clippy3-97f406b6eb99f1ff.rmeta: clippy3.rs Cargo.toml
 
-/home/nuc/github-classroom/LearningOS/rust-rustlings-2023-autumn-wxsgamma/exercises/clippy/target/debug/deps/clippy3-97f406b6eb99f1ff.d: clippy3.rs Cargo.toml
+/home/nuc/Desktop/rust-rustlings-2023-autumn-wxsgamma/exercises/clippy/target/debug/deps/clippy3-97f406b6eb99f1ff.d: clippy3.rs Cargo.toml
 
 clippy3.rs:
 Cargo.toml:
